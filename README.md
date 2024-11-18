@@ -1,3 +1,3 @@
-# Hourglass - Privacy Policy
+### Hourglass - Privacy Policy
 
-### We do not harvest/collect any personal data from this app.
+We do not harvest/collect any personal data from this app.
